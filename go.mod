@@ -1,3 +1,3 @@
-module githbu.com/code-raushan/go-sequential-server
+module githbu.com/code-raushan/sequential-tcp-server
 
 go 1.22.5
